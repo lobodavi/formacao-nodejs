@@ -1,12 +1,12 @@
 {
-  "name": "aula",
+  "name": "mariokart",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Davi Lobo",
+  "license": "ISC",
+  "description": "Projeto de um jogo textual baseado em mario kart para estudo de javascript e nodeJS."
 }
